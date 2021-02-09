@@ -289,7 +289,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
         font-size: 60pt;
         line-height: 75pt;}
     .moped{
-        width: 420px;
+        width: auto;
         margin: 0%auto;
         margin-bottom: 10%;
     }
@@ -393,7 +393,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
     
 }
 .moped{
-    width: 288px;
+    width: auto;
 margin: 0%auto;
 margin-bottom: 3%;
 }
